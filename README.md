@@ -12,7 +12,7 @@ Welcome to my repository! I am a first-year student at **VIT Chennai**, and this
 
 ##  Repository Structure
 - `01-Basics/`: Variables, data types, and user inputs, if conditionals, logical operators.
-- `02-String-Formatting`: string methods, string indexing, format specifiers/
+- `02-String-Formatting`: string methods, string indexing, format specifiers.
 - `03-Conditionals-Loops/`: for loops, and while loops.
 - `04-Functions/`: Creating reusable code blocks.
 - `05-Projects/`: Complete scripts (like my Command-Line Calculator).
