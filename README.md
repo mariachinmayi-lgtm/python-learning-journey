@@ -11,8 +11,8 @@ Welcome to my repository! I am a first-year student at **VIT Chennai**, and this
 - Maintain a consistent coding habit (green GitHub squares!).
 
 ##  Repository Structure
-- `01-Basics/`: Variables, data types, and user inputs.
-- `02-Conditionals-Loops/`: If-else logic, for loops, and while loops.
+- `01-Basics/`: Variables, data types, and user inputs, if conditionals.
+- `02-Conditionals-Loops/`: for loops, and while loops.
 - `03-Functions/`: Creating reusable code blocks.
 - `04-Projects/`: Complete scripts (like my Command-Line Calculator).
 
